@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore data raw files if large
+data/raw/
+data/*.tmp
+
+# Ignore environment folders
+.env/
+venv/
+
+# Ignore system files
+.DS_Store
